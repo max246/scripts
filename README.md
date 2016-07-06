@@ -1,5 +1,4 @@
-# scripts
-Helpful scripts
+Helpful scripts collected over the years
 
 # AVR
 * Test Arduino : Script to test if Arduino is alive via AVR programmer
